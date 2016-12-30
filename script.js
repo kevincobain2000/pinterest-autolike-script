@@ -17,7 +17,7 @@ setTimeout(function(){
                         }
                     }
                     console.log('liked:' + counter)
-            }, 5000);
+            }, 25000);
         }
     }
 }, 5000);
