@@ -1,8 +1,8 @@
-####### Don't go crazy
+###### Don't go crazy
 
 Pinterest allows u to like around 300 pics at a time?/day?. (so keep a track by watching console.log on chrome or just count it)
 
-####### How To
+###### How To
 
 Either copy paste script as it is into your developer console or install this extension https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija and paste the code for tumblr.
 
